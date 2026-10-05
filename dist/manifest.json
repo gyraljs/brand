@@ -1,0 +1,1967 @@
+[
+  {
+    "file": "contact-sheet.html",
+    "kind": "html"
+  },
+  {
+    "file": "contact-sheet.png",
+    "kind": "png"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-dark-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-light-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-flat-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-dark-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 346
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 692
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-light-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1384
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 173
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyral-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-dark-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-light-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-flat-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-dark-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 292
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 584
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-light-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 1168
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 146
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-horizontal/gyral-lockup-horizontal-gyraljs-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-flat-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1196
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2392
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 598
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyral-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-flat-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 933
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 1866
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 467
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "lockup-stacked/gyral-lockup-stacked-gyraljs-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-black-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-white-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-flat-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-dark-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-dark-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-light-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-light-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-flat-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-mono-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-mono-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-mono-black-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-mono-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-mono-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-mono-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-mono-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-mono-white-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-mono-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-mono-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-on-black-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-on-black-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-on-white-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-on-white-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-transparent-dark-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-transparent-dark-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark/gyral-mark-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 1024
+  },
+  {
+    "file": "mark/gyral-mark-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 2048
+  },
+  {
+    "file": "mark/gyral-mark-transparent-light-256.png",
+    "kind": "png",
+    "width": 256,
+    "height": 256
+  },
+  {
+    "file": "mark/gyral-mark-transparent-light-4096.png",
+    "kind": "png",
+    "width": 4096,
+    "height": 4096
+  },
+  {
+    "file": "mark/gyral-mark-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "mark/gyral-mark-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark/gyral-mark-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "social/avatar-gyraljs-500.png",
+    "kind": "png",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "file": "social/avatar-gyraljs-500.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "social/avatar-mark-500.png",
+    "kind": "png",
+    "width": 500,
+    "height": 500
+  },
+  {
+    "file": "social/avatar-mark-500.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "social/github-social-1280x640.png",
+    "kind": "png",
+    "width": 1280,
+    "height": 640
+  },
+  {
+    "file": "social/github-social-1280x640.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "social/og-1200x630.png",
+    "kind": "png",
+    "width": 1200,
+    "height": 630
+  },
+  {
+    "file": "social/og-1200x630.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "web/apple-touch-icon.png",
+    "kind": "png",
+    "width": 180,
+    "height": 180
+  },
+  {
+    "file": "web/favicon-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 16
+  },
+  {
+    "file": "web/favicon-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 32
+  },
+  {
+    "file": "web/favicon-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 48
+  },
+  {
+    "file": "web/favicon.ico",
+    "kind": "ico",
+    "sizes": [
+      16,
+      32,
+      48
+    ]
+  },
+  {
+    "file": "web/favicon.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "web/icon-192.png",
+    "kind": "png",
+    "width": 192,
+    "height": 192
+  },
+  {
+    "file": "web/icon-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "web/icon-maskable-192.png",
+    "kind": "png",
+    "width": 192,
+    "height": 192
+  },
+  {
+    "file": "web/icon-maskable-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 512
+  },
+  {
+    "file": "web/site.webmanifest",
+    "kind": "json"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 494
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 988
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 247
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 494
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 988
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 247
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 494
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 988
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 247
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 494
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 988
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 247
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 494
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 988
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 247
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 494
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 988
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 247
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyral-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 382
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 764
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 191
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 382
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 764
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 191
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-black-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 382
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-black-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 764
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-black-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 191
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-white-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 382
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-white-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 764
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-white-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 191
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-dark-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 382
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-dark-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 764
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-dark-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 191
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-light-1024.png",
+    "kind": "png",
+    "width": 1024,
+    "height": 382
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-light-2048.png",
+    "kind": "png",
+    "width": 2048,
+    "height": 764
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-light-512.png",
+    "kind": "png",
+    "width": 512,
+    "height": 191
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "wordmark/gyral-wordmark-gyraljs-transparent-light.svg",
+    "kind": "svg"
+  }
+]
