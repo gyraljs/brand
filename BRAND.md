@@ -153,7 +153,7 @@ pixel size. `dist/contact-sheet.png` shows everything at a glance.
 
 ## Licence and usage policy
 
-© 2026 The Zoop Troop, Inc. Gyral, gyraljs and the Gyral logo are trademarks of The Zoop Troop, Inc. Designed by Mike Zupper. The artwork in this repository is **not** under an
+© 2026 Mike Zupper. Gyral, gyraljs and the Gyral logo are trademarks of Mike Zupper. The artwork in this repository is **not** under an
 open-source licence; see `LICENSE`.
 
 You may, without asking:
