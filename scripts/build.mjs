@@ -11,8 +11,10 @@ import {
   SEGMENTS,
   SMALL,
   SORA_REGULAR,
+  SORA_SEMIBOLD,
   VARIANTS,
   WORDMARK_VARIANTS,
+  WHITE,
   WORDS,
   layoutHorizontal,
   layoutMark,
@@ -73,6 +75,15 @@ const LAYOUTS = [
     variants: Object.keys(VARIANTS),
     pngs: [256, 512, 1024, 2048, 4096],
     mm: 80,
+  },
+  {
+    // Below ~24px: drops the innermost half-turn, heavier stroke (BRAND.md "Minimum sizes").
+    dir: 'mark-small',
+    name: 'gyral-mark-small',
+    layout: layoutSmallMark(),
+    variants: Object.keys(VARIANTS),
+    pngs: [16, 24, 32, 48, 64],
+    mm: 12,
   },
   ...WORDS.flatMap((word) => [
     {
@@ -198,7 +209,6 @@ write(
 );
 
 // ── Social ─────────────────────────────────────────────────────────────────────────────
-const TAGLINE = 'Model-View-Intent web components on the modern web platform.';
 await social('social/avatar-mark-500', 500, 500, place(mark, 'on-black', { cx: 250, cy: 250, width: 320 }));
 await social(
   'social/avatar-gyraljs-500',
@@ -206,17 +216,34 @@ await social(
   500,
   place(layoutStacked('gyraljs'), 'on-black', { cx: 250, cy: 250, width: 390 }),
 );
+// Social cards: a large mark on the left; wordmark, tagline (two lines) and the org handle on
+// the right. Everything sits inside a 64px (scaled) safe margin so GitHub's crops keep it.
 for (const [name, w, h] of [
   ['social/og-1200x630', 1200, 630],
   ['social/github-social-1280x640', 1280, 640],
 ]) {
-  const lockup = place(layoutHorizontal('gyral'), 'on-black', { cx: w / 2, cy: h * 0.42, width: w * 0.5 });
-  const probe = outline(TAGLINE, { font: SORA_REGULAR, size: 100, spacing: 0 });
-  const size = (w * 0.66 * 100) / (probe.box.x2 - probe.box.x1);
-  const tag = outline(TAGLINE, { font: SORA_REGULAR, size, spacing: 0 });
-  const x = w / 2 - (tag.box.x1 + tag.box.x2) / 2;
-  const line = outline(TAGLINE, { font: SORA_REGULAR, size, spacing: 0, x, y: h * 0.76 });
-  await social(name, w, h, { defs: lockup.defs, body: `${lockup.body}<path d="${line.d}" fill="#B9BCC6"/>` });
+  const k = w / 1280;
+  const markPart = place(mark, 'on-black', { cx: 300 * k, cy: h / 2, width: 380 * k });
+  const textX = 560 * k;
+  const word = outline('gyral', { font: SORA_SEMIBOLD, size: 168 * k, x: textX, y: h / 2 - 20 * k });
+  const lines = ['Model-View-Intent web components', 'on the modern web platform.'].map((text, i) =>
+    outline(text, { font: SORA_REGULAR, size: 34 * k, spacing: 0, x: textX + 6 * k, y: h / 2 + (62 + i * 48) * k }),
+  );
+  const handle = outline('github.com/gyraljs', {
+    font: SORA_REGULAR,
+    size: 28 * k,
+    spacing: 0,
+    x: textX + 6 * k,
+    y: h / 2 + 200 * k,
+  });
+  await social(name, w, h, {
+    defs: markPart.defs,
+    body:
+      markPart.body +
+      `<path d="${word.d}" fill="${WHITE}"/>` +
+      lines.map((l) => `<path d="${l.d}" fill="#D5D8E0"/>`).join('') +
+      `<path d="${handle.d}" fill="#8EB0F6"/>`,
+  });
 }
 
 async function social(name, w, h, inner) {

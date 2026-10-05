@@ -33,7 +33,7 @@ Stroke width 7, round ends at the centre and at the tail; the turns meet without
 
 Below 24 px the two innermost turns fill in and turn to mud. The small mark drops turns 1 and 2 and thickens the
 stroke to 10 (11 at 16 px). `web/favicon.svg` and the 16 px favicon use it; use the same rule anywhere the mark is
-under 24 px tall or under 8 mm in print.
+under 24 px tall or under 8 mm in print. Use the files in `dist/mark-small/` (SVG, PDF and PNG at 16–64 px, every colour variant).
 
 ## Layouts
 
@@ -153,7 +153,7 @@ pixel size. `dist/contact-sheet.png` shows everything at a glance.
 
 ## Licence and usage policy
 
-The Gyral name and logos are trademarks of the Gyral project. The artwork in this repository is **not** under an
+© 2026 The Zoop Troop, Inc. Gyral, gyraljs and the Gyral logo are trademarks of The Zoop Troop, Inc. Designed by Mike Zupper. The artwork in this repository is **not** under an
 open-source licence; see `LICENSE`.
 
 You may, without asking:

@@ -1168,6 +1168,386 @@
     "kind": "svg"
   },
   {
+    "file": "mark-small/gyral-mark-small-flat-on-black-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-black-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-black-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-black-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-black-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-white-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-white-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-white-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-white-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-white-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-dark-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-dark-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-dark-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-dark-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-dark-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-light-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-light-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-light-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-light-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-light-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-flat-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-black-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-black-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-black-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-black-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-black-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-white-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-white-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-white-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-white-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-white-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-mono-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-black-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-black-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-black-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-black-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-black-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-black.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-black.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-white-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-white-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-white-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-white-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-white-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-white.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-on-white.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-dark-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-dark-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-dark-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-dark-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-dark-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-dark.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-dark.svg",
+    "kind": "svg"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-light-16.png",
+    "kind": "png",
+    "width": 16,
+    "height": 14
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-light-24.png",
+    "kind": "png",
+    "width": 24,
+    "height": 21
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-light-32.png",
+    "kind": "png",
+    "width": 32,
+    "height": 28
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-light-48.png",
+    "kind": "png",
+    "width": 48,
+    "height": 42
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-light-64.png",
+    "kind": "png",
+    "width": 64,
+    "height": 56
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-light.pdf",
+    "kind": "pdf"
+  },
+  {
+    "file": "mark-small/gyral-mark-small-transparent-light.svg",
+    "kind": "svg"
+  },
+  {
     "file": "mark/gyral-mark-flat-on-black-1024.png",
     "kind": "png",
     "width": 1024,

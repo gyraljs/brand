@@ -152,7 +152,7 @@ function box(x1, y1, x2, y2) {
 export function layoutSmallMark() {
   const half = SMALL.stroke16 / 2;
   const content = box(32 - half, 36 - half, 76 + half, 72 + half);
-  return { viewBox: SMALL.viewBox, text: null, content, mark: true };
+  return { viewBox: SMALL.viewBox, text: null, content, mark: true, small: true, stroke: SMALL.stroke };
 }
 
 export function layoutMark() {
@@ -236,7 +236,9 @@ export function svgDoc({ viewBox, defs = '', body, bg = null, title }) {
 /** A layout in a colour variant, as a standalone SVG document. */
 export function renderLayout(layout, variantName, title) {
   const v = VARIANTS[variantName];
-  const parts = layout.mark ? markParts(v.mark) : { defs: '', body: '' };
+  const parts = layout.mark
+    ? markParts(v.mark, layout.small === true ? { small: true, stroke: layout.stroke } : {})
+    : { defs: '', body: '' };
   const text = layout.text ? `<path d="${layout.text.d}" fill="${v.text}"/>` : '';
   return svgDoc({ viewBox: layout.viewBox, defs: parts.defs, body: parts.body + text, bg: v.bg, title });
 }
