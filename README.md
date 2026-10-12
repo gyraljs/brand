@@ -1,7 +1,7 @@
 # Gyral brand
 
-Logos, icons and the usage guide for [Gyral](https://github.com/gyraljs), Model-View-Intent web components on the
-modern web platform.
+Logos, icons and the usage guide for [Gyral](https://gyral.dev), Model-View-Intent web components on the
+modern web platform. The framework itself lives in [gyraljs/gyral](https://github.com/gyraljs/gyral).
 
 ![Gyral](dist/social/github-social-1280x640.png)
 
