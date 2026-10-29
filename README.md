@@ -43,7 +43,9 @@ pnpm check                              # formatting and asset tests
 
 The single source is `scripts/brand.mjs` (geometry, colours, layouts); `scripts/build.mjs` renders every file.
 Commit `dist/` with the change that produced it. pnpm adopts a dependency version only once it is
-two weeks old (`minimumReleaseAge` in `pnpm-workspace.yaml`, Gyral's ADR 0032).
+two weeks old (`minimumReleaseAge` in `pnpm-workspace.yaml`, Gyral's ADR 0032). The build needs Node 24
+or later and pnpm 12 (`packageManager` in `package.json`). A Playwright update brings a new Chromium,
+which rewrites the `Producer` line of every PDF.
 
 ## Licence
 
