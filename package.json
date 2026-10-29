@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "fast-xml-parser": "5.11.2",
-    "opentype.js": "1.3.4",
+    "opentype.js": "2.0.0",
     "playwright": "1.63.0",
     "prettier": "3.9.9"
   }
