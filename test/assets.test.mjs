@@ -67,6 +67,15 @@ describe('svg', () => {
       assert.match(src, /viewBox="[\d.\s-]+"/);
       assert.match(src, /<title>[^<]+<\/title>/);
     });
+
+    it(`${file} has finite path data and closed letters`, () => {
+      const src = readFileSync(join(DIST, file), 'utf8');
+      for (const [, d, fill] of src.matchAll(/<path d="([^"]*)" fill="([^"]*)"/g)) {
+        assert.doesNotMatch(d, /NaN|Infinity/);
+        // Filled paths are outlined letters (the mark is stroked): every contour ends with Z.
+        if (fill !== 'none') for (const contour of d.split(/(?=M)/)) assert.match(contour, /Z$/, contour);
+      }
+    });
   }
 });
 

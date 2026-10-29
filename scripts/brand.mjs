@@ -110,6 +110,28 @@ function extended(s) {
 // ── Wordmark: Sora SemiBold, outlined ──────────────────────────────────────────────────
 export const LETTER_SPACING = -0.02; // em
 
+/** SVG path data for a glyph outline from `Glyph.getPath`, to 0.001. */
+function glyphPathData(path) {
+  const round = (v) => Number(v.toFixed(3));
+  const commands = [];
+  for (const cmd of path.commands) {
+    // opentype.js 2 leaves contours open unless the font strokes them (`Glyph.getPath` emits `Z`
+    // only for stroked paths). Every TrueType contour ends on its start point: close each one,
+    // so the letters stay closed shapes in the SVG and PDF files.
+    if (cmd.type === 'M' && commands.length > 0 && commands.at(-1).type !== 'Z') commands.push({ type: 'Z' });
+    const rounded = { ...cmd };
+    for (const key of ['x', 'y', 'x1', 'y1', 'x2', 'y2']) if (key in cmd) rounded[key] = round(cmd[key]);
+    commands.push(rounded);
+  }
+  if (commands.length > 0 && commands.at(-1).type !== 'Z') commands.push({ type: 'Z' });
+  const closed = new opentype.Path();
+  closed.commands = commands;
+  // Rounded first: opentype.js 2's toPathData writes NaN for a coordinate with floating-point
+  // noise (838.0000000000001). getPath has already flipped y for SVG, and `optimize` would drop
+  // and reorder outline commands.
+  return closed.toPathData({ decimalPlaces: 3, flipY: false, optimize: false });
+}
+
 /** Outlined text: path data and its bounds, at `size` with the baseline at (x, y). */
 export function outline(text, { font = SORA_SEMIBOLD, size, x = 0, y = 0, spacing = LETTER_SPACING }) {
   const glyphs = font.stringToGlyphs(text);
@@ -119,9 +141,10 @@ export function outline(text, { font = SORA_SEMIBOLD, size, x = 0, y = 0, spacin
   const box = { x1: Infinity, y1: Infinity, x2: -Infinity, y2: -Infinity };
   glyphs.forEach((g, i) => {
     const path = g.getPath(pen, y, size);
-    d += path.toPathData(3);
-    const b = path.getBoundingBox();
-    if (Number.isFinite(b.x1)) {
+    d += glyphPathData(path);
+    // An empty glyph (a space) has the bounding box 0,0,0,0 in opentype.js 2: skip it.
+    if (path.commands.length > 0) {
+      const b = path.getBoundingBox();
       box.x1 = Math.min(box.x1, b.x1);
       box.y1 = Math.min(box.y1, b.y1);
       box.x2 = Math.max(box.x2, b.x2);
