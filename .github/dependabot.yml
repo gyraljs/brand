@@ -1,0 +1,14 @@
+# Dependabot opens update PRs. Run `pnpm check` locally on a Dependabot branch before merging.
+# Updates wait until a version is two weeks old (Gyral's ADR 0032).
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    cooldown:
+      default-days: 14
+    open-pull-requests-limit: 5
+    groups:
+      minor-and-patch:
+        update-types: [minor, patch]

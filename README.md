@@ -42,7 +42,8 @@ pnpm check                              # formatting and asset tests
 ```
 
 The single source is `scripts/brand.mjs` (geometry, colours, layouts); `scripts/build.mjs` renders every file.
-Commit `dist/` with the change that produced it.
+Commit `dist/` with the change that produced it. pnpm adopts a dependency version only once it is
+two weeks old (`minimumReleaseAge` in `pnpm-workspace.yaml`, Gyral's ADR 0032).
 
 ## Licence
 
